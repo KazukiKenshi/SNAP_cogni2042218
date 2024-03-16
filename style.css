@@ -1,0 +1,108 @@
+.Title {
+    font-family: "Poppins", sans-serif;
+    font-weight: 500;
+    font-style: normal;
+    text-align: center;
+}
+.Title_2{
+    text-align: center;
+}
+
+.box h1 {
+    color: white;
+    font-size: 9rem;
+    font-weight: 1600;
+    padding-top: 10px;
+    margin: 5px auto 0px 20px;
+    padding-left: 6%;
+    font-family: "Poppins", sans-serif;
+    font-weight: 500;
+    font-style: normal;
+}
+.number{
+    display: inline;
+    color: #F58BCF;
+    font-size: 2.5rem;
+    font-family: "Poppins", sans-serif ;
+    font-style: italic;
+}
+
+.box {
+    background-color: #0B4350;
+    border-radius: 10px;
+    margin:6%;
+    
+    border : 2px solid #F58BCF;
+}
+
+.card {
+    display: flex;
+    flex-wrap: wrap;
+    
+    justify-content: space-between;
+    margin : 10px 10%;
+    background-color: #0B4350;
+    border-radius: 10px;
+    /* margin-bottom: 20px; */
+    height: 400px;
+}
+
+.block_1 h2 {
+    color: #ACE4E3;
+    font-family: "JetBrains Mono", monospace;
+    font-optical-sizing: auto;
+    /* font-weight: <weight>; */
+    font-style: normal;
+
+}
+
+.myth{
+    text-align: center; 
+    color: #F58BCF; 
+    font-size: 1.5rem; 
+    font-family: "JetBrains Mono", monospace";
+}
+
+.block_1{
+    max-width : 40%;
+}
+.block_2{
+    max-width : 40%;
+}
+
+.block_2 h2 {
+    color: #ACE4E3;
+    font-family: "JetBrains Mono", monospace;
+    font-optical-sizing: auto;
+    /* font-weight: <weight>; */
+    font-style: normal;
+}
+
+
+.node {
+    background-color: #E7E6AD;
+}
+
+.myth_content{
+    color : #F58BCF;
+    font-size: 1.5rem;
+    font-weight: 800;
+    font-family: "Poppins", sans-serif;
+    
+}
+
+
+
+.fact_content{
+    color : #F58BCF;
+    font-family: "Poppins", sans-serif;
+}
+/* 
+.ball {}
+
+MYTH
+Someone threatening suicide are just seeking attention.
+FACT
+Anyone who talks about suicide needs serious attention.
+
+Most people who die by suicide, talk about it first. The attention they get can save their lives. */
